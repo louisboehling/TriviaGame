@@ -1,0 +1,47 @@
+body {
+    background: black; 
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+#title {
+    font-size: 72px;
+    font-family: 'Berkshire Swash', cursive;
+    padding: 50px;
+    background: -webkit-linear-gradient(rgb(255, 230, 0), rgb(255, 208, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+input[type="radio"] {
+    margin: 15px;
+}
+
+#timer {
+    font-size: 72px;
+    font-family: 'Berkshire Swash', cursive;
+    padding: 10px;
+    background: -webkit-linear-gradient(rgb(255, 230, 0), rgb(255, 208, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#questions {
+    background: url("../images/maze.jpg");
+    padding: 50px;
+}
